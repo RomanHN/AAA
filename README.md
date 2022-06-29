@@ -805,6 +805,14 @@ __AWESOME__ apps counter: __169__ 🎉
 - [x] [GitHub](https://github.com/CorruptedArk/did-i-take-my-meds)
 - [ ] Official page
 
+### Plees Tracker
+<img alt="PleesTracker" height="64" src="https://raw.githubusercontent.com/vmiklos/plees-tracker/ad7b376291ef343792e8a3106592d6c2307e545e/doc/icon.svg">
+
+- [ ] Google Play
+- [x] [F-Droid](https://f-droid.org/en/packages/hu.vmiklos.plees_tracker/)
+- [x] [GitHub](https://github.com/vmiklos/plees-tracker)
+- [x] [Official page](https://vmiklos.hu/plees-tracker/)
+
 ### Medic Log
 <img alt="MedicLog" height="64" src="https://raw.githubusercontent.com/rh-id/a-medic-log/master/graphics/launcher.svg">
 
